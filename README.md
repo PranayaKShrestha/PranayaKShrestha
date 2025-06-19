@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Pranaya, and I've recently graduated with a Bachelor's in Mathematics from the University of Waterloo. I am interested in all things Data Analytics and Data Science with it's applications to Sports Analytics. 
+
+- 🔭 I’m currently working on several Baseball and Basketball projects on R.
+- 🌱 I’m currently learning Numpy and Pandas on Python to improve my technical skills
+- ⚡ Fun fact: I was born in Thailand and lived there for 8 years before moving to Canada 
 <!--
 **PranayaKShrestha/PranayaKShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
